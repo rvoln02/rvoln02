@@ -2,9 +2,9 @@
 **`Software Engineer`**
 
 <p align="left">
-  I'm a third-year Texas A&M University student currently pursuing a Bachelor's Degree in Computer Science.
-  I'm an extremely passionate learner who is ready to take on any challenge in my way. I've always loved computers
-  and math, so computer science was an obvious pick for me.
+  I'm a junior at Texas A&M University studying Computer Science with a 3.77 GPA. 
+  I’m passionate about problem-solving and have hands-on experience in a wide variety of programming languages through projects like CPU design and web app development. 
+  As a Teaching Assistant, I enjoy mentoring others, and I’m always eager to tackle challenges and grow alongside those who share my love for technology and innovation.
 </p>
 
 ## Connect With Me!
